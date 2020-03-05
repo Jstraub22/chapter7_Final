@@ -1,0 +1,11 @@
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\bin\Debug\netcoreapp3.1\chapter7_Final.exe
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\bin\Debug\netcoreapp3.1\chapter7_Final.deps.json
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\bin\Debug\netcoreapp3.1\chapter7_Final.runtimeconfig.json
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\bin\Debug\netcoreapp3.1\chapter7_Final.runtimeconfig.dev.json
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\bin\Debug\netcoreapp3.1\chapter7_Final.dll
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\bin\Debug\netcoreapp3.1\chapter7_Final.pdb
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\obj\Debug\netcoreapp3.1\chapter7_Final.csprojAssemblyReference.cache
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\obj\Debug\netcoreapp3.1\chapter7_Final.AssemblyInfoInputs.cache
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\obj\Debug\netcoreapp3.1\chapter7_Final.AssemblyInfo.cs
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\obj\Debug\netcoreapp3.1\chapter7_Final.dll
+C:\Users\straub2\source\repos\chapter7_Final\chapter7_Final\obj\Debug\netcoreapp3.1\chapter7_Final.pdb
